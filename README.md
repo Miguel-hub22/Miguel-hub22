@@ -1,4 +1,4 @@
-## Oi sou o Miguel, Programador Full Stack!
+## Olá sou Miguel, Programador Full Stack!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mq" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
